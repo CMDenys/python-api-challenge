@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+api_keys.py
+
+
 # Distribution / packaging
 .Python
 build/
@@ -80,6 +83,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+api_keys.py
 
 # pyenv
 .python-version
