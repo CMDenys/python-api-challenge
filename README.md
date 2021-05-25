@@ -19,7 +19,7 @@ Next, a weather check on each city was conducting using a series of successive A
 
 Data was then converted into a data frame.
 <p align="center">
-  <img src="images/4_dataframe.png" width="500"/>
+  <img src="images/4_dataframe.png" width="400"/>
 </p>
 
 To visual what the data was telling us, a series of scatter plots to showcase the following relationships:
@@ -28,8 +28,10 @@ To visual what the data was telling us, a series of scatter plots to showcase th
   <img src="images/5_img1.png" width="400"/>
   <img src="images/6_img2.png" width="400"/> 
 </p>
+<p float="left" align="center">
+  <img src="images/7_img3.png" width="400"/>
+  <img src="images/8_img4.png" width="400"/> 
+</p>
 
 
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
 
