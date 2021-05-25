@@ -14,7 +14,7 @@ Next, a weather check on each city was conducting using a series of successive A
 
 <p float="left" align="center">
   <img src="images/2_perform_apis.png" width="400"/>
-  <img src="images/3_citylist.png" width="400"/> 
+  <img src="images/3_citylist.png" margin-top:"0" width="400"/> 
 </p>
 
 Data was then converted into a data frame.
