@@ -26,10 +26,10 @@ To visual what the data was telling us, a series of scatter plots to showcase th
 
 <p float="left" align="center">
   <a> <h5>Temperature (F) vs. Latitude</h5>
-    <img src="images/5_img1.png" width="400"/>
+    <img src="images/5_img1.png" width="300"/>
   </a>
   <a><h5>Humidity (%) vs. Latitude</h5>
-    <img src="images/6_img2.png" width="400"/> 
+    <img src="images/6_img2.png" width="300"/> 
   </a>
 </p>
 
