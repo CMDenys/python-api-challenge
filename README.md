@@ -24,14 +24,14 @@ Data was then converted into a data frame.
 
 To visual what the data was telling us, a series of scatter plots to showcase the following relationships:
 
-<p float="left" align="center">
-  <a> <h5>Temperature (F) vs. Latitude</h5>
+<a float="left" align="center">
+  <p> <h5>Temperature (F) vs. Latitude</h5>
     <img src="images/5_img1.png" width="300"/>
-  </a>
-  <a><h5>Humidity (%) vs. Latitude</h5>
+  </p>
+  <p><h5>Humidity (%) vs. Latitude</h5>
     <img src="images/6_img2.png" width="300"/> 
-  </a>
-</p>
+  </p>
+</a>
 
 Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
