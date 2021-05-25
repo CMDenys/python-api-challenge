@@ -14,7 +14,7 @@ Next, a weather check on each city was conducting using a series of successive A
 
 <p float="left" align="center">
   <img src="images/2_perform_apis.png" width="400"/>
-  <img src="images/3_citylist.png" top-margin="0" width="400"/> 
+  <img src="images/3_citylist.png" width="400"/> 
 </p>
 
 Data was then converted into a data frame.
@@ -31,6 +31,12 @@ To visual what the data was telling us, a series of scatter plots to showcase th
 <p float="left" align="center">
   <img src="images/7_img3.png" width="400"/>
   <img src="images/8_img4.png" width="400"/> 
+</p>
+
+Additionally, linear regressions were run on each relationship to determine how much correlation existed between the variables.  Below are a couple examples:
+<p float="left" align="center">
+  <img src="images/9_reg1.png" width="400"/>
+  <img src="images/10_reg2.png" width="400"/> 
 </p>
 
 
