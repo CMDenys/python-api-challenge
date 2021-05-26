@@ -59,7 +59,7 @@ Next, using the Google Places API, the first hotel for each city located within 
 
 Finally, the hotels were plotted on a humidity heatmap.
 <p float="left" align="center">
-  <img src="images/14_heatmap.png" width="400"/>
-  <img src="VacationPy/heatmap.png" width="400"/> 
+  <img src="images/14_heatmap.png" width="500"/>
+  <img src="VacationPy/heatmap.png" width="500"/> 
 </p>
 
