@@ -42,3 +42,18 @@ Additionally, linear regressions were run on each relationship to determine how 
 <hr>
 <h1>Part II - VacationPy</h1>
 
+Once weather conditions for the cities across the world were found they were used to determine what the best city to vacation would be.  In this section, jupyter-gmaps and the Google Places API were used.
+
+The first step was to narrow down the data frame to those locations that matched my ideal weather conditions and drop any rows that didn't match.
+
+<p align="center">
+  <img src="images/11_idealTemp.png" width="400"/>
+</p>
+
+
+
+Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
+
+
+Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
