@@ -47,13 +47,19 @@ Once weather conditions for the cities across the world were found they were use
 The first step was to narrow down the data frame to those locations that matched my ideal weather conditions and drop any rows that didn't match.
 
 <p align="center">
-  <img src="images/11_idealTemp.png" width="400"/>
+  <img src="images/11_idealTemp.png" width="500"/>
+</p>
+
+Next, using the Google Places API, the first hotel for each city located within 5000 meters of my coordinates was identified.
+<p float="left" align="center">
+  <img src="images/12_hotels.png" width="400"/>
+  <img src="images/13_hotels2.png" width="400"/> 
 </p>
 
 
-
-Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
-
-
-Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+Finally, the hotels were plotted on a humidity heatmap.
+<p float="left" align="center">
+  <img src="images/14_heatmap.png" width="400"/>
+  <img src="images/.png" width="400"/> 
+</p>
 
