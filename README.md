@@ -1,4 +1,3 @@
-# python-api-challenge
 
 To better understand weather patterns in various cities across the world, a representative model was created using Python libraries and the OpenWeatherMap API to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 
